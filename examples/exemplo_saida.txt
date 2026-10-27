@@ -1,0 +1,25 @@
+E L
+A 0
+A 1
+A 2
+I 0
+I 1
+I 2
+M Machado Forca 5
+M BarbaPostica Carisma 7
+M BarbaPostica Furtividade -3
+M Botas Furtividade 4
+H 0
+F 1
+F 2
+Z 2
+encomenda_1 0 0 encomenda_2 0 1
+LH Blibblon atributo_1 0 5 atributo_2 1 7 atributo_3 2 -3
+Q 1 2 2.00
+E T
+LI BarbaPostica atributo_1 1 7 atributo_2 2 -3
+E C
+LA Furtividade item_1 1 -3 item_2 2 4
+D Blibblon BarbaPostica
+LH Blibblon atributo_1 0 5
+LF Furtividade item_1 0 0 item_2 2 4

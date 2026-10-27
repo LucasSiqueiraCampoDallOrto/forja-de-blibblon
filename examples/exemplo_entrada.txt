@@ -1,0 +1,26 @@
+E L
+A Forca
+A Carisma
+A Furtividade
+I Machado
+I BarbaPostica
+I Botas
+M 0 0 5
+M 1 1 7
+M 1 2 -3
+M 2 2 4
+H Blibblon
+F 0 0
+F 0 1
+Z 2
+LH 0
+Q 0 2 2
+PODER 1
+SINERGIA 1
+E T
+LI 1
+E C
+LA 2
+D 0
+LH 0
+LF 2 0 4
