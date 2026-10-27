@@ -1,0 +1,28 @@
+# Executáveis e arquivos compilados
+*.exe
+*.out
+*.o
+*.obj
+*.a
+
+# Arquivos temporários
+*.tmp
+*.log
+*.bak
+
+# Pastas de compilação
+build/
+bin/
+obj/
+
+# Configurações locais
+.vscode/
+.idea/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
